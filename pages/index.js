@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <div className="pt-24 lg:pt-20">
+      <div className="pt-24 lg:pt-20 z-0">
         <Hero />
         <Gallery />
       </div>
